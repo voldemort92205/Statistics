@@ -8,7 +8,7 @@ function [output] = standNormalTable (input, type)
 		author : perry92205 lee
 		e-mail : voldemort92205@gmail.com
 		modify : version1-2016/3/22 - initial version
-				 version2-2016/4/11 - support more precise input value in cdf
+		         version2-2016/4/11 - support more precise input value in cdf
 	%}
 
 	table = [.0003 .0005 .0007 .0010 .0013 .0019 .0026 .0035 .0047 .0062 .0082 .0107 .0139 .0179 .0228 .0287 .0359 .0446 .0548 .0668 .0808 .0968 .1151 .1357 .1587 .1841 .2119 .2420 .2743 .3085 .3446 .3821 .4207 .4602 .5000;
